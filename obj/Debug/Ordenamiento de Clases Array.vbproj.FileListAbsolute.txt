@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\bin\Debug\Ordenamiento de Clases Array.exe.config
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\bin\Debug\Ordenamiento de Clases Array.exe
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\bin\Debug\Ordenamiento de Clases Array.pdb
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\bin\Debug\Ordenamiento de Clases Array.xml
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento de Clases Array.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento_de_Clases_Array.Form1.resources
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento_de_Clases_Array.Resources.resources
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento de Clases Array.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento de Clases Array.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento de Clases Array.exe
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento de Clases Array.xml
+C:\Users\oswal\source\repos\Ordenamiento de Clases Array\obj\Debug\Ordenamiento de Clases Array.pdb
